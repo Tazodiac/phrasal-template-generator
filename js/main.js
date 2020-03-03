@@ -1,4 +1,4 @@
-alert('Let’s make a story together!')
+alert('Let’s make a story together!');
 
 var pickColour = prompt('A colour (orange, indigo, ect.)');
 var pickCreature = prompt('A creature (dragon, moth, etc.)');
@@ -15,6 +15,6 @@ if (pickStory == 'b') {
 }
 
 if (pickStory == 'c') {
-  document.write(`Jackson chose his ${pickAdj}, ${pickColour} ${pickCreature} card and ${pickAdj} it to the table knowing he won.`)
+  document.write(`Jackson chose his ${pickAdj}, ${pickColour} ${pickCreature} card and ${pickAdj} it to the table knowing he won.`);
 
 }
