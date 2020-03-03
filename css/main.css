@@ -1,0 +1,7 @@
+:root {
+  --colour: orange;
+}
+
+span {
+  color: var(--colour);
+}
